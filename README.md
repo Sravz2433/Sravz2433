@@ -23,6 +23,26 @@
    - **Description**: Investigated key structural and functional properties of *E. coli* proteins using computational tools.
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/Ecoli-Protein-Visualization)
 
+5. **Comprehensive Analysis of SARS-CoV-2**
+   - **Description**: Conducted genome assembly, variant classification, and structural prediction of SARS-CoV-2 spike protein.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/sars-cov2-analysis/blob/main/README.md)
+
+6. **DNA Sequence GC Content Calculator**
+   - **Description**: Created a Python script to calculate GC content across large DNA sequences to study genome stability.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/GC-content-calculator)
+
+7. **COVID-19 Genomic Data Visualization**
+   - **Description**: Visualized SARS-CoV-2 genomic mutation patterns using Python and Matplotlib.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/COVID19-genome-visualization)
+
+8. **Protein Domain Identification with BLAST**
+   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/protein-domain-annotation)
+
+9. **Bioinformatics Tools and Pipelines**
+   - **Description**: Consolidated various bioinformatics workflows, including sequence alignment and variant analysis, into reusable Python scripts.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/Bioinformatics)
+
 ---
 
 - 📫 Let’s connect!
