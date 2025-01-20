@@ -27,11 +27,7 @@
    - **Description**: Created a Python script to calculate GC content across large DNA sequences to study genome stability.
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/GC-content-calculator)
 
-6. **COVID-19 Genomic Data Visualization**
-   - **Description**: Visualized SARS-CoV-2 genomic mutation patterns using Python and Matplotlib.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/COVID19-genome-visualization)
-
-7. **Protein Domain Identification with BLAST**
+6. **Protein Domain Identification with BLAST**
    - **Description**: Automated protein domain annotation using BLAST against known domain databases.
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/protein-domain-annotation)
 
