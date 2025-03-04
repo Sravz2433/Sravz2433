@@ -31,7 +31,15 @@
    - **Description**: Automated protein domain annotation using BLAST against known domain databases.
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/protein-domain-annotation)
 
-8. **Bioinformatics Tools and Pipelines**
+7. **FASTA to 3D Protein Structure Prediction**
+   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/fasta-to-protein-structure)
+     
+9. **Genomic Variant Classification in MECP2 Mutations**
+   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
+   - **Link**: [GitHub Repository](https://github.com/Sravz2433/genomic-variant-classification-MECP2)
+     
+11. **Bioinformatics Tools and Pipelines**
    - **Description**: Consolidated various bioinformatics workflows, including sequence alignment and variant analysis, into reusable Python scripts.
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/Bioinformatics)
 
