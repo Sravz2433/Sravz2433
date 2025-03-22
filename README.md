@@ -51,6 +51,14 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m fascinated by how stories from science fiction inspire real-world innovations—fueling my curiosity and creativity in both tech and biology!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravz2433&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sravz2433&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sravz2433&theme=radical&hide_border=false)<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sravz2433&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
 Sravz2433/Sravz2433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
