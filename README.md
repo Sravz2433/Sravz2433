@@ -40,16 +40,16 @@
    - **Link**: [GitHub Repository](https://github.com/Sravz2433/genomic-variant-classification-MECP2)
 
 10. **Drug Discovery using ML**
-   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/Drug-Discovery-ML)
+    - **Description**: Automated protein domain annotation using BLAST against known domain databases.
+    - **Link**: [GitHub Repository](https://github.com/Sravz2433/Drug-Discovery-ML)
 
 11. **Rett Syndrome Pathogenicity Classifier**
-   - **Description**: To classify whether a given MECP2 mutation is benign or pathogenic using various ML and DL techniques.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/MECP2-Analysis)
+     - **Description**: To classify whether a given MECP2 mutation is benign or pathogenic using various ML and DL techniques.
+     - **Link**: [GitHub Repository](https://github.com/Sravz2433/MECP2-Analysis)
      
 12. **Bioinformatics Tools and Pipelines**
-   - **Description**: Consolidated various bioinformatics workflows, including sequence alignment and variant analysis, into reusable Python scripts.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/Bioinformatics)
+     - **Description**: Consolidated various bioinformatics workflows, including sequence alignment and variant analysis, into reusable Python scripts.
+     - **Link**: [GitHub Repository](https://github.com/Sravz2433/Bioinformatics)
 
 ---
 
