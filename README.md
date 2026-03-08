@@ -1,73 +1,142 @@
-- 👋 Hi, I’m **Sravya Sri Mallampalli** (@Sravz2433)
-- 👀 I’m deeply passionate about **Bioinformatics**, **Data Science**, and **Computational Biology**, combining the power of technology and biology to drive scientific discovery.
-- 🌱 I’m currently exploring **advanced bioinformatics tools**, **machine learning applications in genomics**, and **cloud-based solutions for big data analysis**.
-- 💡 I enjoy working on challenges that involve analyzing complex biological datasets, unraveling insights, and creating innovative solutions.
-- 💞️ I’m excited to collaborate on **genomic data analysis**, **data visualization**, and projects that push the boundaries of **computational biology**.
+## 👋 Hi, I'm Sravya Sri Mallampalli
 
-## **Projects**
+Undergraduate researcher in **Bioinformatics, Computational Biology, and Molecular Machine Learning**.
 
-### **Public Repositories**
-1. **Mouse Mammary RNA-Seq Analysis**
-   - **Description**: Analyzed RNA-seq data to identify differentially expressed genes linked to breast cancer.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/mouse-mammary-rna-seq-analysis)
+My work focuses on developing **computational and machine learning approaches for biological systems**, with applications in:
 
-2. **Evolutionary Tree Reconstruction of Ebolaviruses**
-   - **Description**: Built an evolutionary tree using genomic sequences to study diversity and transmission patterns.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/ebolavirus-tree)
+- Genomic variant interpretation  
+- Single-cell omics analysis  
+- Protein–ligand interaction modeling  
+- Computational drug discovery  
 
-3. **E. coli Protein Visualization and Analysis**
-   - **Description**: Investigated key structural and functional properties of *E. coli* proteins using computational tools.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/Ecoli-Protein-Visualization)
+I enjoy building **bioinformatics pipelines, machine learning models, and open-source tools** for analyzing complex biological datasets.
 
-4. **Comprehensive Analysis of SARS-CoV-2**
-   - **Description**: Conducted genome assembly, variant classification, and structural prediction of SARS-CoV-2 spike protein.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/sars-cov2-analysis/blob/main/README.md)
+Currently exploring:
 
-5. **DNA Sequence GC Content Calculator**
-   - **Description**: Created a Python script to calculate GC content across large DNA sequences to study genome stability.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/GC-content-calculator)
-
-6. **Protein Domain Identification with BLAST**
-   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/protein-domain-annotation)
-
-7. **FASTA to 3D Protein Structure Prediction**
-   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/fasta-to-protein-structure)
-     
-9. **Genomic Variant Classification in MECP2 Mutations**
-   - **Description**: Automated protein domain annotation using BLAST against known domain databases.
-   - **Link**: [GitHub Repository](https://github.com/Sravz2433/genomic-variant-classification-MECP2)
-
-10. **Drug Discovery using ML**
-    - **Description**: Automated protein domain annotation using BLAST against known domain databases.
-    - **Link**: [GitHub Repository](https://github.com/Sravz2433/Drug-Discovery-ML)
-
-11. **Rett Syndrome Pathogenicity Classifier**
-     - **Description**: To classify whether a given MECP2 mutation is benign or pathogenic using various ML and DL techniques.
-     - **Link**: [GitHub Repository](https://github.com/Sravz2433/MECP2-Analysis)
-     
-12. **Bioinformatics Tools and Pipelines**
-     - **Description**: Consolidated various bioinformatics workflows, including sequence alignment and variant analysis, into reusable Python scripts.
-     - **Link**: [GitHub Repository](https://github.com/Sravz2433/Bioinformatics)
+- **Graph Neural Networks for molecular modeling**
+- **Noise-aware multimodal learning for single-cell data**
+- **Large-scale genomic data analysis**
 
 ---
 
-- 📫 Let’s connect!
-   - 📧 Email: [sravyasm@hotmail.com](mailto:sravyasm@hotmail.com)
-   - 💼 LinkedIn: [Sravya Sri Mallampalli](https://www.linkedin.com/in/sravya-sri-mallampalli)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m fascinated by how stories from science fiction inspire real-world innovations—fueling my curiosity and creativity in both tech and biology!
+# 🔬 Selected Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravz2433&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Sravz2433&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sravz2433&theme=radical&hide_border=false)<br/>
+## Genomics & Transcriptomics
+
+### Mouse Mammary RNA-Seq Analysis
+Analysis of RNA-seq datasets to identify **differentially expressed genes associated with breast cancer progression**.
+
+🔗 https://github.com/Sravz2433/mouse-mammary-rna-seq-analysis
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sravz2433&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!---
-Sravz2433/Sravz2433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Genomic Variant Classification in MECP2 Mutations
+Machine learning models developed to **predict pathogenicity of MECP2 variants associated with Rett syndrome**.
+
+🔗 https://github.com/Sravz2433/genomic-variant-classification-MECP2
+
+
+### Rett Syndrome Pathogenicity Classifier
+End-to-end ML pipeline to classify variants as **benign or pathogenic using sequence-derived genomic features**.
+
+🔗 https://github.com/Sravz2433/MECP2-Analysis
+
+
+---
+
+## Molecular Biology & Structural Bioinformatics
+
+### E. coli Protein Visualization and Analysis
+Exploration of **structural and functional properties of bacterial proteins** using computational analysis.
+
+🔗 https://github.com/Sravz2433/Ecoli-Protein-Visualization
+
+
+### FASTA to Protein Structure Prediction
+Pipeline converting **FASTA protein sequences into predicted 3D structures and structural annotations**.
+
+🔗 https://github.com/Sravz2433/fasta-to-protein-structure
+
+
+---
+
+## Viral Genomics & Evolution
+
+### Comprehensive Analysis of SARS-CoV-2
+Genome assembly, variant identification, and structural exploration of viral spike protein.
+
+🔗 https://github.com/Sravz2433/sars-cov2-analysis
+
+
+### Evolutionary Tree Reconstruction of Ebolaviruses
+Phylogenetic reconstruction of **ebolavirus genomic sequences** to study viral diversity and transmission patterns.
+
+🔗 https://github.com/Sravz2433/ebolavirus-tree
+
+
+---
+
+## Bioinformatics Tools & Utilities
+
+### Bioinformatics Tools and Pipelines
+Collection of reusable Python utilities for:
+
+- sequence processing  
+- genomic data handling  
+- alignment analysis  
+- variant processing  
+
+🔗 https://github.com/Sravz2433/Bioinformatics
+
+
+### DNA Sequence GC Content Calculator
+Python script for computing **GC content across genomic sequences**, useful for genome composition analysis.
+
+🔗 https://github.com/Sravz2433/GC-content-calculator
+
+
+### Protein Domain Identification with BLAST
+Automated workflow for **annotating protein domains using BLAST against known domain databases**.
+
+🔗 https://github.com/Sravz2433/protein-domain-annotation
+
+
+---
+
+# 🤝 Collaboration
+
+I'm interested in collaborating on projects involving:
+
+- bioinformatics pipelines
+- molecular machine learning
+- genomics and transcriptomics
+- computational drug discovery
+- single-cell omics analysis
+
+
+---
+
+# 📫 Connect With Me
+
+📧 Email  
+sravyasm@hotmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/sravya-sri-mallampalli
+
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravz2433&theme=radical&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Sravz2433&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sravz2433&theme=radical)
+
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sravz2433&theme=radical)
